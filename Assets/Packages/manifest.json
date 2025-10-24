@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.linuxsenpai.multitargetbuilder": "https://github.com/voldien/UMultiTargetBuilder.git#0.1.6",
+    "...": "..."
+  }
+}
